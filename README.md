@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitTahade](https://github.com/RohitTahade)
 
-- 💬 Ask me about **Data Analytics, Machine Learning**
+- 💬 Ask me about **Data Analytics, Machine Learning, Big Data**
 
 - 📫 How to reach me **rohit.tahade@gmail.com**
 
