@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Tahade</h1>
 <h3 align="center">A passionate Data Analyst in UK</h3>
 
-- 🌱 I’m currently learning **SQL, SSIS, SSRS**
+- 🌱 I’m currently learning **Azure Databricks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitTahade](https://github.com/RohitTahade)
 
