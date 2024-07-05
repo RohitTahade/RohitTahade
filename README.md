@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohit Tahade</h1>
 <h3 align="center">A passionate Data Analyst in UK</h3>
 
-- 🌱 I’m currently learning **Azure Databricks, Data Factory**
+- 🌱 I’m currently learning **Azure Databricks, Snowflake**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitTahade](https://github.com/RohitTahade)
 
-- 💬 Ask me about **Data Analytics, Machine Learning, Big Data**
+- 💬 Ask me about **Power BI, DAX, Data Analytics, Machine Learning, Big Data**
 
 - 📫 How to reach me **rohit.tahade@gmail.com**
 
