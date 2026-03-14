@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohitTahade](https://github.com/RohitTahade)
 
-- 💬 Ask me about **Power BI, DAX, Data Analytics, Machine Learning, Big Data**
+- 💬 Ask me about **Power BI, DAX, Data Analytics, Microsoft Fabric, Machine Learning and Snowflake**
 
 - 📫 How to reach me **rohit.tahade@gmail.com**
 
